@@ -1,0 +1,2 @@
+# Customer-Conversion-Analysis-for-Online-Shopping-Using-Clickstream-Data
+🛒 **Customer Conversion Analysis** | A **Streamlit app** using **clickstream data** to predict **purchase likelihood (classification)**, estimate **potential revenue (regression)**, and segment customers (clustering) for **targeted marketing**. Empowering e-commerce with **data-driven insights** to boost sales &amp; engagement. 🚀
