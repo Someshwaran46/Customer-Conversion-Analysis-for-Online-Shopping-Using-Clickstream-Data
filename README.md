@@ -1,4 +1,4 @@
-# 🛒 Customer Conversion Analysis for Online Shopping Using Clickstream Data  
+# 🛒 🛍️ Customer Conversion Analysis for Online Shopping Using Clickstream Data  
 
 ## 🚀 Project Overview  
 This project focuses on **analyzing clickstream data** to enhance customer engagement and optimize e-commerce sales. A **Streamlit web application** is developed to predict customer conversion, estimate potential revenue, and segment users for personalized marketing.  
@@ -87,10 +87,10 @@ streamlit run app.py
 ---
 ## 🎯 Explore. Predict. Segment. Succeed.
 
-Interactive Web Application:
+### Interactive Web Application:
 -  Build a Streamlit interface that allows users to upload CSV files or input values manually.
   
-Key Features:
+### Key Features:
 - Real-time predictions for conversion (classification).
 - Revenue estimation (regression).
 - Display customer segments (clustering visualization).
@@ -100,4 +100,4 @@ Key Features:
 
 - Feel free to open issues or submit pull requests! Improvements, and suggestions are always welcome 🙌.
 - For clarifications drop an email to somesh4602@gmail.com.
-
+---
