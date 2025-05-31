@@ -98,6 +98,6 @@ Key Features:
 ---
 ## 📬 Feedback
 
-Feel free to open issues or submit pull requests! Improvements, and suggestions are always welcome 🙌.
-For clarifications drop an email to somesh4602@gmail.com.
+- Feel free to open issues or submit pull requests! Improvements, and suggestions are always welcome 🙌.
+- For clarifications drop an email to somesh4602@gmail.com.
 
